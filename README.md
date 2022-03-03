@@ -86,11 +86,6 @@
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   
-  ## Stats :
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4dri1&layout=compact&langs_count=6&theme=github_dark)
-
-  
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
