@@ -86,8 +86,10 @@
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4dri1&theme=github_dark)](https://github.com/h4dri1/github-readme-stats)
-
+  ## Stats :
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4dri1)](https://git.io/streak-stats)
+  
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
