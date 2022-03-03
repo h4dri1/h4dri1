@@ -56,10 +56,18 @@
   **Pentesting :**
   
   ![Nmap](https://img.shields.io/badge/-Nmap-red?style=for-the-badge)
-  ![Nmap](https://img.shields.io/badge/-Metasploit-green?style=for-the-badge)
+  ![Metasploit](https://img.shields.io/badge/-Metasploit-green?style=for-the-badge)
+  ![SQLMap](https://img.shields.io/badge/-SQLMap-orange?style=for-the-badge)
+  ![BurpSuite](https://img.shields.io/badge/-BurpSuite-blue?style=for-the-badge)
+  ![Nikto](https://img.shields.io/badge/-Nikto-green?style=for-the-badge)
+  ![Hydra](https://img.shields.io/badge/-Hydra-orange?style=for-the-badge)
+  ![HashCat](https://img.shields.io/badge/-HashCat-red?style=for-the-badge)
+  ![Ettercap](https://img.shields.io/badge/-Ettercap-blue?style=for-the-badge)
+  ![WireShark](https://img.shields.io/badge/-WireShark-orange?style=for-the-badge)
   
   **Tools and Others :**
   
+  ![PM2](https://img.shields.io/badge/-PM2-red?style=for-the-badge)
   ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,7 +76,17 @@
   ![LetsEncrypt](https://img.shields.io/badge/-LetsEncrypt-green?style=for-the-badge)
   ![OpenVPN](https://img.shields.io/badge/-OpenVPN-red?style=for-the-badge)
 
-
+  ## Techs in learning
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Axios](https://img.shields.io/badge/-Axios-red?style=for-the-badge)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+  
+  ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=h4dri1&layout=compact&langs_count=6&theme=github_dark)
 
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
