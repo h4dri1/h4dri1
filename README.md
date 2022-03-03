@@ -88,7 +88,8 @@
   
   ## Stats :
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4dri1)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4dri1&layout=compact&langs_count=6&theme=github_dark)
+
   
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
