@@ -1,8 +1,8 @@
 <center>
-<img src="./banner.png" alt="imadev" style="max-width: 100%;" />
+<img src="./ban.png" alt="imadev" style="max-width: 100%;" />
 </center>
 
-### 👋 Hello, I'm Hadrien, Full Stack JS Web Developer Junior from Pau, France.
+<p>👋 Hello, I'm Hadrien, Full Stack JS Web Developer Junior from Pau, France.</p>
 
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
