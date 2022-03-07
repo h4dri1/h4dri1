@@ -94,7 +94,7 @@
   
   ## Repo
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4dri1&repo=mycryptofolio&theme=github_dark)](https://github.com/h4dri1/mycryptofolio)
+
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4dri1&repo=trombinoclock&theme=github_dark)](https://github.com/h4dri1/trombinoclock)
   
