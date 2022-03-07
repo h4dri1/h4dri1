@@ -86,9 +86,13 @@
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   
-  ## Repo
+  ## Stats
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4dri1&layout=compact&langs_count=6&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4dri1&layout=compact&langs_count=6&theme=github_dark)          
+  
+  ![h4dri1 GitHub stats](https://github-readme-stats.vercel.app/api?username=h4dri1&show_icons=true&theme=github_dark)
+  
+  ## Repo
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4dri1&repo=mycryptofolio&theme=github_dark)](https://github.com/h4dri1/mycryptofolio)
   
