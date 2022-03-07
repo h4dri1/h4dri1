@@ -88,7 +88,7 @@
   
   ## Repo
   
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h4dri1&repo=mycryptofolio&theme=github_dark)](https://github.com/h4dri1/mycryptofolio)
   
 <!--
 **h4dri1/h4dri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
