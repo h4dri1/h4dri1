@@ -2,7 +2,7 @@
 <img src="./ban.png" alt="banner" style="max-width: 100%;" />
 </center>
 
-<p align="center">👋 Hello, I'm Hadrien, Full Stack JS Web Developer Junior from Pau, France. I am specialized in Data with the creation of REST APIs with NodeJS and i am currently learning REACT.<p>
+<p align="center">👋 Hello, I'm Hadrien, Full Stack JS Web Developer Junior from Pau, France. I am specialized in Data with the creation of REST APIs with NodeJS but i like create front whith REACT too.<p>
 
   ## Story
   I've been coding since I was 12 years old but I went to business school and never really pushed a particular language. I particularly studied pentesting and I learned a lot    about linux environment and how the network works at that time. I manage a dedicated server on which I have all my cloud services and where I can deploy web applications.
